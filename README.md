@@ -1,2 +1,1 @@
-Step 1. pip install comfyui-cli
-Step 2. comfy-cli --run stress_test.json
+In hindsight i should've chosen a better solution. Its too late now. I've gone to far. So be it. Hakunamata. Jumanji
